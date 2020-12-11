@@ -26,7 +26,7 @@ class Header extends Component {
 						<hr />
 						<ul className="social">
 							<li key="github"><a href="https://github.com/f4str"><i className="fa fa-github"></i></a></li>
-							<li key="linkedin"><a href="https://www.linkedin.com/in/farhan-ahmed-f4str/"><i className="fa fa-linkedin"></i></a></li>
+							<li key="linkedin"><a href="https://www.linkedin.com/in/f4str/"><i className="fa fa-linkedin"></i></a></li>
 						</ul>
 					</div>
 				</div>

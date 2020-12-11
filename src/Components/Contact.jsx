@@ -13,7 +13,7 @@ class Contact extends Component {
 				</div>
 				<ul className="header-col social-links center">
 					<li key="github"><a href="https://github.com/f4str"><i className="fa fa-github"></i></a></li>
-					<li key="linkedin"><a href="https://www.linkedin.com/in/farhan-ahmed-f4str/"><i className="fa fa-linkedin"></i></a></li>
+					<li key="linkedin"><a href="https://www.linkedin.com/in/f4str/"><i className="fa fa-linkedin"></i></a></li>
 				</ul>
 			</section>
 		);
